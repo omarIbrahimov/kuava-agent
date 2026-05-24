@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+ENV/local/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / Secrets
+.env
+.venv
